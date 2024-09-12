@@ -26,3 +26,14 @@ solve();
 const ages = 20;
 // ages = 30; error -> Assignment to constant variable
 console.log(ages);
+
+// Datatypes
+
+// 1. primitive datatypes
+// -> number (1,2,3,2.3,3.4,1.23)
+// -> string ("Ansh","Jha")
+// -> boolean (true,false)
+// -> symbol ()
+// -> BigInt (very large number)
+// -> null (variable assigned with value null)
+// -> undefined (variable declared but not assigned value)
